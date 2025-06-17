@@ -2,3 +2,6 @@
 Source/DotNetRefEdit/bin
 Source/DotNetRefEdit/obj
 Source/DotNetRefEdit/DotNetRefEdit.csproj.user
+/.vs
+/Source/.vs
+/Source/packages
