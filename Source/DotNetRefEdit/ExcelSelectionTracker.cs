@@ -5,6 +5,7 @@ using System.Text;
 using ExcelDna.Integration;
 using Microsoft.Office.Interop.Excel;
 using Application = Microsoft.Office.Interop.Excel.Application;
+using Range = Microsoft.Office.Interop.Excel.Range;
 
 namespace DotNetRefEdit
 {
